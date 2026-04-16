@@ -1,0 +1,166 @@
+/* Info-Only Styles */
+
+.info-card {
+    border-left: 4px solid #10b981;
+}
+
+.info-card:hover {
+    border-left-color: #059669;
+}
+
+.info-only-footer {
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #e2e8f0;
+}
+
+.info-note {
+    background: #fef3c7;
+    color: #92400e;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    border-left: 4px solid #f59e0b;
+}
+
+.info-note strong {
+    color: #78350f;
+}
+
+/* Remove selection-related styles */
+.college-form,
+.college-selection,
+.application-form {
+    display: none !important;
+}
+
+/* Enhanced course info display */
+.course-detail-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.detail-card {
+    background: #f8fafc;
+    padding: 20px;
+    border-radius: 12px;
+    border-left: 4px solid #2563eb;
+    transition: all 0.3s ease;
+}
+
+.detail-card:hover {
+    background: #f1f5f9;
+    transform: translateY(-2px);
+}
+
+.certificates-list {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0;
+}
+
+.certificates-list li {
+    padding: 8px 0;
+    color: #059669;
+    font-weight: 500;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.certificates-list li:last-child {
+    border-bottom: none;
+}
+
+.colleges-ranking {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.college-rank-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 12px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.rank {
+    background: #2563eb;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 50%;
+    font-weight: bold;
+    min-width: 40px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.college-info {
+    flex: 1;
+}
+
+.college-info strong {
+    color: #1e293b;
+    font-size: 16px;
+}
+
+.college-info small {
+    color: #64748b;
+    font-size: 13px;
+}
+
+.career-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 15px 0;
+}
+
+.career-tag {
+    background: #e0e7ff;
+    color: #3730a3;
+    padding: 6px 12px;
+    border-radius: 15px;
+    font-size: 12px;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.career-tag:hover {
+    background: #c7d2fe;
+    transform: scale(1.05);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .course-detail-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    
+    .detail-card {
+        padding: 15px;
+    }
+    
+    .college-rank-item {
+        padding: 10px;
+        gap: 10px;
+    }
+    
+    .rank {
+        min-width: 35px;
+        padding: 4px 8px;
+        font-size: 12px;
+    }
+    
+    .info-note {
+        padding: 12px;
+        font-size: 13px;
+    }
+}

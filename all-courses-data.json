@@ -1,0 +1,274 @@
+{
+  "courseDetails": {
+    "MBBS": {
+      "fullName": "Bachelor of Medicine and Bachelor of Surgery",
+      "duration": "5.5 years",
+      "eligibility": "12th PCB with 50% + NEET qualified",
+      "fees": "₹5,00,000 - ₹25,00,000",
+      "description": "Medical degree to become a doctor. Study human anatomy, diseases, treatments, and patient care.",
+      "certificates": ["NEET Qualification", "Medical Council Registration", "Internship Certificate"],
+      "topColleges": [
+        {"name": "AIIMS Delhi", "city": "Delhi", "fees": "₹5,50,000", "ranking": 1},
+        {"name": "CMC Vellore", "city": "Vellore", "fees": "₹18,00,000", "ranking": 2},
+        {"name": "JIPMER Puducherry", "city": "Puducherry", "fees": "₹6,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Doctor", "Surgeon", "Specialist", "Medical Officer", "Researcher"],
+      "averageSalary": "₹6,00,000 - ₹20,00,000"
+    },
+    "BDS": {
+      "fullName": "Bachelor of Dental Surgery",
+      "duration": "5 years",
+      "eligibility": "12th PCB with 50% + NEET qualified",
+      "fees": "₹3,00,000 - ₹15,00,000",
+      "description": "Dental medicine degree focusing on oral health, dental procedures, and patient care.",
+      "certificates": ["NEET Qualification", "Dental Council Registration", "Clinical Training"],
+      "topColleges": [
+        {"name": "Maulana Azad Institute Delhi", "city": "Delhi", "fees": "₹4,00,000", "ranking": 1},
+        {"name": "Government Dental College Mumbai", "city": "Mumbai", "fees": "₹3,50,000", "ranking": 2},
+        {"name": "King George Medical University", "city": "Lucknow", "fees": "₹4,50,000", "ranking": 3}
+      ],
+      "careerOptions": ["Dentist", "Oral Surgeon", "Orthodontist", "Dental Consultant", "Private Practice"],
+      "averageSalary": "₹4,00,000 - ₹15,00,000"
+    },
+    "B.Tech Computer Science": {
+      "fullName": "Bachelor of Technology in Computer Science Engineering",
+      "duration": "4 years",
+      "eligibility": "12th PCM with 60% + JEE/State CET",
+      "fees": "₹2,00,000 - ₹8,00,000",
+      "description": "Engineering degree focusing on programming, software development, algorithms, and computer systems.",
+      "certificates": ["JEE Qualification", "Programming Certifications", "Industry Internships"],
+      "topColleges": [
+        {"name": "IIT Delhi", "city": "Delhi", "fees": "₹8,50,000", "ranking": 1},
+        {"name": "IIT Bombay", "city": "Mumbai", "fees": "₹8,50,000", "ranking": 2},
+        {"name": "BITS Pilani", "city": "Pilani", "fees": "₹15,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Software Engineer", "Data Scientist", "AI/ML Engineer", "Product Manager", "Tech Lead"],
+      "averageSalary": "₹4,00,000 - ₹25,00,000"
+    },
+    "B.Tech Mechanical": {
+      "fullName": "Bachelor of Technology in Mechanical Engineering",
+      "duration": "4 years",
+      "eligibility": "12th PCM with 60% + JEE/State CET",
+      "fees": "₹2,00,000 - ₹7,00,000",
+      "description": "Engineering focusing on design, manufacturing, and maintenance of mechanical systems.",
+      "certificates": ["JEE Qualification", "CAD/CAM Certification", "Industrial Training"],
+      "topColleges": [
+        {"name": "IIT Kharagpur", "city": "Kharagpur", "fees": "₹8,50,000", "ranking": 1},
+        {"name": "NIT Trichy", "city": "Trichy", "fees": "₹5,50,000", "ranking": 2},
+        {"name": "VJTI Mumbai", "city": "Mumbai", "fees": "₹3,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Mechanical Engineer", "Design Engineer", "Production Manager", "R&D Engineer", "Consultant"],
+      "averageSalary": "₹3,50,000 - ₹12,00,000"
+    },
+    "B.Tech Civil": {
+      "fullName": "Bachelor of Technology in Civil Engineering",
+      "duration": "4 years",
+      "eligibility": "12th PCM with 60% + JEE/State CET",
+      "fees": "₹1,50,000 - ₹6,00,000",
+      "description": "Engineering focusing on infrastructure, construction, and environmental projects.",
+      "certificates": ["JEE Qualification", "AutoCAD Certification", "Site Experience"],
+      "topColleges": [
+        {"name": "IIT Roorkee", "city": "Roorkee", "fees": "₹8,50,000", "ranking": 1},
+        {"name": "NIT Surathkal", "city": "Surathkal", "fees": "₹5,50,000", "ranking": 2},
+        {"name": "COEP Pune", "city": "Pune", "fees": "₹2,50,000", "ranking": 3}
+      ],
+      "careerOptions": ["Civil Engineer", "Project Manager", "Structural Engineer", "Urban Planner", "Contractor"],
+      "averageSalary": "₹3,00,000 - ₹10,00,000"
+    },
+    "Chartered Accountancy": {
+      "fullName": "Chartered Accountancy",
+      "duration": "4-5 years",
+      "eligibility": "12th Commerce + CA Foundation",
+      "fees": "₹2,00,000 - ₹5,00,000",
+      "description": "Professional accounting course covering taxation, auditing, financial management, and business laws.",
+      "certificates": ["CA Foundation", "CA Intermediate", "CA Final"],
+      "topColleges": [
+        {"name": "ICAI Delhi", "city": "Delhi", "fees": "₹3,50,000", "ranking": 1},
+        {"name": "ICAI Mumbai", "city": "Mumbai", "fees": "₹3,80,000", "ranking": 2},
+        {"name": "ICAI Chennai", "city": "Chennai", "fees": "₹3,20,000", "ranking": 3}
+      ],
+      "careerOptions": ["Chartered Accountant", "Tax Consultant", "Financial Advisor", "Auditor", "CFO"],
+      "averageSalary": "₹6,00,000 - ₹25,00,000"
+    },
+    "BBA": {
+      "fullName": "Bachelor of Business Administration",
+      "duration": "3 years",
+      "eligibility": "12th any stream with 50%",
+      "fees": "₹1,00,000 - ₹4,00,000",
+      "description": "Business management degree covering marketing, finance, HR, and operations management.",
+      "certificates": ["Digital Marketing", "Project Management", "Business Analytics"],
+      "topColleges": [
+        {"name": "Shaheed Sukhdev College Delhi", "city": "Delhi", "fees": "₹45,000", "ranking": 1},
+        {"name": "Christ University Bangalore", "city": "Bangalore", "fees": "₹2,80,000", "ranking": 2},
+        {"name": "Symbiosis Pune", "city": "Pune", "fees": "₹3,50,000", "ranking": 3}
+      ],
+      "careerOptions": ["Business Analyst", "Marketing Manager", "HR Executive", "Operations Manager", "Entrepreneur"],
+      "averageSalary": "₹3,00,000 - ₹12,00,000"
+    },
+    "B.Com": {
+      "fullName": "Bachelor of Commerce",
+      "duration": "3 years",
+      "eligibility": "12th Commerce/Any stream with 45%",
+      "fees": "₹30,000 - ₹2,00,000",
+      "description": "Commerce degree covering accounting, finance, business studies, and economics.",
+      "certificates": ["Tally Certification", "GST Course", "Banking Certification"],
+      "topColleges": [
+        {"name": "Shri Ram College Delhi", "city": "Delhi", "fees": "₹45,000", "ranking": 1},
+        {"name": "Christ University Bangalore", "city": "Bangalore", "fees": "₹1,80,000", "ranking": 2},
+        {"name": "Loyola College Chennai", "city": "Chennai", "fees": "₹85,000", "ranking": 3}
+      ],
+      "careerOptions": ["Accountant", "Banking Officer", "Financial Analyst", "Tax Consultant", "Business Executive"],
+      "averageSalary": "₹2,50,000 - ₹8,00,000"
+    },
+    "BA English": {
+      "fullName": "Bachelor of Arts in English",
+      "duration": "3 years",
+      "eligibility": "12th any stream with 45%",
+      "fees": "₹25,000 - ₹1,50,000",
+      "description": "Literature and language studies covering English literature, linguistics, and communication skills.",
+      "certificates": ["IELTS/TOEFL", "Content Writing", "Translation"],
+      "topColleges": [
+        {"name": "St. Stephen's College Delhi", "city": "Delhi", "fees": "₹35,000", "ranking": 1},
+        {"name": "Presidency College Kolkata", "city": "Kolkata", "fees": "₹25,000", "ranking": 2},
+        {"name": "Fergusson College Pune", "city": "Pune", "fees": "₹40,000", "ranking": 3}
+      ],
+      "careerOptions": ["Teacher", "Content Writer", "Journalist", "Translator", "Editor"],
+      "averageSalary": "₹2,50,000 - ₹8,00,000"
+    },
+    "Mass Communication": {
+      "fullName": "Bachelor of Mass Communication",
+      "duration": "3 years",
+      "eligibility": "12th any stream with 50%",
+      "fees": "₹1,00,000 - ₹4,00,000",
+      "description": "Media and communication studies covering journalism, advertising, public relations, and digital media.",
+      "certificates": ["Digital Marketing", "Video Editing", "Photography"],
+      "topColleges": [
+        {"name": "IIMC Delhi", "city": "Delhi", "fees": "₹85,000", "ranking": 1},
+        {"name": "Xavier Institute Mumbai", "city": "Mumbai", "fees": "₹3,50,000", "ranking": 2},
+        {"name": "AJK MCRC Jamia", "city": "Delhi", "fees": "₹45,000", "ranking": 3}
+      ],
+      "careerOptions": ["Journalist", "Content Creator", "PR Executive", "Media Planner", "News Anchor"],
+      "averageSalary": "₹3,00,000 - ₹10,00,000"
+    },
+    "BCA": {
+      "fullName": "Bachelor of Computer Applications",
+      "duration": "3 years",
+      "eligibility": "12th any stream with Maths",
+      "fees": "₹50,000 - ₹3,00,000",
+      "description": "Computer applications degree focusing on programming, software development, and IT skills.",
+      "certificates": ["Programming Languages", "Database Management", "Web Development"],
+      "topColleges": [
+        {"name": "Christ University Bangalore", "city": "Bangalore", "fees": "₹2,50,000", "ranking": 1},
+        {"name": "Symbiosis Pune", "city": "Pune", "fees": "₹2,80,000", "ranking": 2},
+        {"name": "Presidency College Bangalore", "city": "Bangalore", "fees": "₹1,20,000", "ranking": 3}
+      ],
+      "careerOptions": ["Software Developer", "System Analyst", "Web Developer", "Database Administrator", "IT Consultant"],
+      "averageSalary": "₹3,00,000 - ₹8,00,000"
+    },
+    "Pharmacy": {
+      "fullName": "Bachelor of Pharmacy",
+      "duration": "4 years",
+      "eligibility": "12th PCB/PCM with 50%",
+      "fees": "₹1,00,000 - ₹5,00,000",
+      "description": "Pharmaceutical sciences covering drug development, manufacturing, and patient care.",
+      "certificates": ["Pharmacy Council Registration", "Drug Inspector License", "Clinical Research"],
+      "topColleges": [
+        {"name": "Jamia Hamdard Delhi", "city": "Delhi", "fees": "₹2,50,000", "ranking": 1},
+        {"name": "ICT Mumbai", "city": "Mumbai", "fees": "₹1,80,000", "ranking": 2},
+        {"name": "JSS College Mysore", "city": "Mysore", "fees": "₹2,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Pharmacist", "Drug Inspector", "Medical Representative", "Research Scientist", "Hospital Pharmacist"],
+      "averageSalary": "₹2,50,000 - ₹8,00,000"
+    },
+    "B.Sc Nursing": {
+      "fullName": "Bachelor of Science in Nursing",
+      "duration": "4 years",
+      "eligibility": "12th PCB with 45%",
+      "fees": "₹80,000 - ₹3,00,000",
+      "description": "Nursing degree focusing on patient care, medical procedures, and healthcare management.",
+      "certificates": ["Nursing Council Registration", "BLS Certification", "Clinical Training"],
+      "topColleges": [
+        {"name": "AIIMS Delhi", "city": "Delhi", "fees": "₹1,20,000", "ranking": 1},
+        {"name": "CMC Vellore", "city": "Vellore", "fees": "₹2,50,000", "ranking": 2},
+        {"name": "Manipal University", "city": "Manipal", "fees": "₹3,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Staff Nurse", "Nursing Supervisor", "ICU Specialist", "Community Health Nurse", "Nursing Educator"],
+      "averageSalary": "₹2,00,000 - ₹6,00,000"
+    },
+    "Architecture": {
+      "fullName": "Bachelor of Architecture",
+      "duration": "5 years",
+      "eligibility": "12th PCM with 50% + NATA",
+      "fees": "₹2,00,000 - ₹8,00,000",
+      "description": "Architectural design and planning covering building design, urban planning, and construction.",
+      "certificates": ["NATA Qualification", "Council of Architecture Registration", "AutoCAD Certification"],
+      "topColleges": [
+        {"name": "IIT Roorkee", "city": "Roorkee", "fees": "₹8,50,000", "ranking": 1},
+        {"name": "SPA Delhi", "city": "Delhi", "fees": "₹2,50,000", "ranking": 2},
+        {"name": "CEPT Ahmedabad", "city": "Ahmedabad", "fees": "₹4,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Architect", "Urban Planner", "Interior Designer", "Landscape Architect", "Construction Manager"],
+      "averageSalary": "₹3,00,000 - ₹12,00,000"
+    },
+    "Hotel Management": {
+      "fullName": "Bachelor of Hotel Management",
+      "duration": "4 years",
+      "eligibility": "12th any stream with 50%",
+      "fees": "₹2,00,000 - ₹6,00,000",
+      "description": "Hospitality management covering hotel operations, food service, and tourism management.",
+      "certificates": ["Food Safety Certification", "Hospitality Management", "Event Planning"],
+      "topColleges": [
+        {"name": "IHM Delhi", "city": "Delhi", "fees": "₹2,50,000", "ranking": 1},
+        {"name": "IHM Mumbai", "city": "Mumbai", "fees": "₹2,80,000", "ranking": 2},
+        {"name": "Christ University Bangalore", "city": "Bangalore", "fees": "₹4,50,000", "ranking": 3}
+      ],
+      "careerOptions": ["Hotel Manager", "Event Manager", "Food & Beverage Manager", "Tourism Executive", "Restaurant Owner"],
+      "averageSalary": "₹2,50,000 - ₹10,00,000"
+    },
+    "Fashion Design": {
+      "fullName": "Bachelor of Fashion Design",
+      "duration": "4 years",
+      "eligibility": "12th any stream + Portfolio",
+      "fees": "₹2,00,000 - ₹8,00,000",
+      "description": "Fashion and textile design covering garment construction, fashion illustration, and brand management.",
+      "certificates": ["Fashion Design Portfolio", "Textile Knowledge", "Brand Management"],
+      "topColleges": [
+        {"name": "NIFT Delhi", "city": "Delhi", "fees": "₹3,50,000", "ranking": 1},
+        {"name": "Pearl Academy Mumbai", "city": "Mumbai", "fees": "₹6,00,000", "ranking": 2},
+        {"name": "JD Institute Bangalore", "city": "Bangalore", "fees": "₹4,50,000", "ranking": 3}
+      ],
+      "careerOptions": ["Fashion Designer", "Textile Designer", "Fashion Stylist", "Brand Manager", "Fashion Entrepreneur"],
+      "averageSalary": "₹2,50,000 - ₹12,00,000"
+    },
+    "ITI": {
+      "fullName": "Industrial Training Institute",
+      "duration": "1-2 years",
+      "eligibility": "10th pass",
+      "fees": "₹10,000 - ₹50,000",
+      "description": "Technical training in various trades like electrician, fitter, welder, and computer operator.",
+      "certificates": ["Trade Certificate", "NCVT Certificate", "Skill Development"],
+      "topColleges": [
+        {"name": "Government ITI Mumbai", "city": "Mumbai", "fees": "₹15,000", "ranking": 1},
+        {"name": "Central ITI Delhi", "city": "Delhi", "fees": "₹12,000", "ranking": 2},
+        {"name": "ITI Ahmedabad", "city": "Ahmedabad", "fees": "₹18,000", "ranking": 3}
+      ],
+      "careerOptions": ["Technician", "Supervisor", "Quality Inspector", "Machine Operator", "Self Employment"],
+      "averageSalary": "₹1,50,000 - ₹4,00,000"
+    },
+    "Diploma Engineering": {
+      "fullName": "Diploma in Engineering",
+      "duration": "3 years",
+      "eligibility": "10th pass with 50%",
+      "fees": "₹50,000 - ₹2,00,000",
+      "description": "Technical diploma in engineering fields like mechanical, electrical, civil, and computer science.",
+      "certificates": ["Diploma Certificate", "Industrial Training", "Technical Skills"],
+      "topColleges": [
+        {"name": "Government Polytechnic Mumbai", "city": "Mumbai", "fees": "₹75,000", "ranking": 1},
+        {"name": "Delhi Polytechnic", "city": "Delhi", "fees": "₹60,000", "ranking": 2},
+        {"name": "PSG Polytechnic Coimbatore", "city": "Coimbatore", "fees": "₹1,20,000", "ranking": 3}
+      ],
+      "careerOptions": ["Junior Engineer", "Technician", "Supervisor", "Quality Control", "Technical Assistant"],
+      "averageSalary": "₹2,00,000 - ₹6,00,000"
+    }
+  }
+}

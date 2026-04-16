@@ -1,0 +1,187 @@
+{
+  "pathwayTree": {
+    "10th": {
+      "science": {
+        "general": [
+          "ITI Electrician", "ITI Fitter", "ITI Welder", "ITI Computer Operator", "ITI Mechanic Motor Vehicle",
+          "ITI Electronics", "ITI Plumber", "ITI Carpenter", "ITI Painter", "ITI Machinist",
+          "Diploma Civil Engineering", "Diploma Mechanical Engineering", "Diploma Electrical Engineering",
+          "Diploma Electronics Engineering", "Diploma Computer Engineering", "Diploma Chemical Engineering",
+          "Diploma Automobile Engineering", "Diploma Textile Engineering", "Diploma Mining Engineering",
+          "Diploma Metallurgy", "Diploma Architecture", "Diploma Interior Design", "Diploma Fashion Design",
+          "Diploma Hotel Management", "Diploma Catering Technology", "Diploma Event Management",
+          "Certificate Digital Marketing", "Certificate Data Entry", "Certificate Computer Basic", "Certificate Networking"
+        ],
+        "medical": [
+          "ANM", "GNM", "Pharmacy Assistant", "Lab Technician", "X-Ray Technician",
+          "ECG Technician", "Dialysis Technician", "OT Assistant", "Medical Record Technician",
+          "Medical Lab Technician", "Radiology Technician", "Physiotherapy Assistant", "Optometry",
+          "Dental Hygienist", "Veterinary Assistant", "Nutrition Assistant", "Healthcare Administration",
+          "Phlebotomy Technician", "Mental Health Worker", "Community Health Worker"
+        ]
+      },
+      "commerce": {
+        "general": [
+          "Commerce Diploma", "Accounting Course", "Banking Course", "Tally Course", "GST Course",
+          "Business Administration Diploma", "Financial Accounting Diploma", "Taxation Diploma",
+          "Business Analytics Diploma", "Retail Management Diploma", "Insurance Services Diploma",
+          "Payroll Management Certificate", "Stock Market Certificate", "Investment Banking Course",
+          "Logistics & Supply Chain Diploma", "Entrepreneurship Certificate", "E-Commerce Diploma",
+          "Digital Marketing Diploma", "Financial Markets Course", "Cost Accounting Course",
+          "Corporate Finance Diploma", "Business Law Course", "Human Resource Diploma",
+          "Office Management Certificate", "Travel and Tourism Diploma", "Hotel Management Diploma",
+          "Foreign Trade Diploma", "Event Management Diploma", "Banking Operations Certificate",
+          "Wealth Management Course", "Market Research Certificate", "Business Communication Course",
+          "Leadership and Management Diploma", "Startup Management Course", "E-Audit Course",
+          "Supply Chain Management Diploma", "Retail Sales Certificate", "Insurance Broking Course",
+          "International Business Certificate", "Tax Consultant Course", "Import Export Management Diploma",
+          "Digital Payments Course", "Merchant Banking Diploma", "Microfinance Course",
+          "Agri-Business Management Diploma", "Securities Market Course", "Retail Banking Certificate",
+          "Corporate Taxation Course", "Service Management Diploma"
+        ]
+      },
+      "arts": {
+        "general": [
+          "Arts Diploma", "Fine Arts", "Music Course", "Dance Course", "Photography",
+          "Theatre Arts", "Film Making", "Animation & VFX", "Graphic Design", "Interior Design",
+          "Fashion Design", "Journalism", "Mass Communication", "Creative Writing", "Digital Media Diploma",
+          "Advertising Diploma", "Public Relations Diploma", "Performing Arts", "Music Production",
+          "Acting Course", "Sculpture Course", "Painting Course", "Ceramics Course", "Art History Course",
+          "Art Therapy Course", "Fashion Styling", "Textile Design", "Jewelry Design", "Photography Editing",
+          "Film Editing", "Sound Design", "Theatre Production", "Media Studies", "Broadcast Journalism",
+          "Radio Jockey Course", "Video Production", "Interior Decoration", "Landscape Design", "Culinary Arts",
+          "Hospitality Management", "Exhibition Design", "Advertising Design", "Sound Engineering",
+          "Fashion Merchandising", "Visual Effects", "Web Design Course", "Studio Art Diploma", "Crafts Course"
+        ]
+      }
+    },
+    "12th": {
+      "science": {
+        "maths": [
+          "B.Tech Computer Science", "B.Tech Information Technology", "B.Tech Cybersecurity", 
+          "B.Tech Artificial Intelligence", "B.Tech Data Science", "B.Tech Mechanical Engineering",
+          "B.Tech Civil Engineering", "B.Tech Electrical Engineering", "B.Tech Electronics",
+          "B.Tech Aerospace", "B.Tech Chemical Engineering", "B.Tech Petroleum Engineering",
+          "B.Sc Physics", "B.Sc Chemistry", "B.Sc Mathematics", "B.Sc Statistics",
+          "BCA", "B.Sc Computer Science", "B.Sc IT", "Architecture", "Naval Architecture"
+        ],
+        "biology": [
+          "MBBS", "BDS", "BAMS", "BHMS", "BUMS", "Veterinary Science", "Pharmacy", 
+          "B.Sc Nursing", "Physiotherapy", "Occupational Therapy", "B.Sc Biology",
+          "B.Sc Biotechnology", "B.Sc Microbiology", "B.Sc Biochemistry", "B.Sc Genetics",
+          "B.Sc Environmental Science", "B.Sc Forensic Science", "B.Sc Agriculture",
+          "B.Sc Horticulture", "B.Sc Forestry", "Food Technology", "Nutrition & Dietetics"
+        ]
+      },
+      "commerce": {
+        "general": [
+          "B.Com", "B.Com Honours", "BBA", "BMS", "BBM", "Chartered Accountancy",
+          "Company Secretary", "Cost Management Accountant", "B.Com Banking & Insurance",
+          "B.Com Computer Application", "BFM", "International Business", "E-Commerce",
+          "Digital Marketing", "Financial Markets", "Actuarial Science", "Economics Honours"
+        ]
+      },
+      "arts": {
+        "general": [
+          "BA English", "BA Hindi", "BA History", "BA Geography", "BA Political Science",
+          "BA Psychology", "BA Sociology", "BA Philosophy", "BA Economics", "BFA Fine Arts",
+          "Mass Communication", "Journalism", "BA LLB", "BBA LLB", "Hotel Management",
+          "Event Management", "Fashion Design", "Interior Design", "Graphic Design",
+          "Animation & VFX", "Film Making", "Music", "Dance", "Theatre Arts"
+        ]
+      }
+    }
+  },
+  "courseDetails": {
+    "MBBS": {
+      "fullName": "Bachelor of Medicine and Bachelor of Surgery",
+      "duration": "5.5 years",
+      "eligibility": "12th PCB with 50% + NEET",
+      "fees": "₹5,00,000 - ₹25,00,000",
+      "description": "Medical degree to become a doctor. Study human anatomy, diseases, treatments, and patient care.",
+      "certificates": ["NEET Qualification", "Medical Council Registration", "Internship Certificate"],
+      "topColleges": [
+        {"name": "AIIMS Delhi", "city": "Delhi", "fees": "₹5,50,000", "ranking": 1},
+        {"name": "CMC Vellore", "city": "Vellore", "fees": "₹18,00,000", "ranking": 2},
+        {"name": "JIPMER Puducherry", "city": "Puducherry", "fees": "₹6,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Doctor", "Surgeon", "Specialist", "Medical Officer", "Researcher"],
+      "averageSalary": "₹6,00,000 - ₹20,00,000"
+    },
+    "B.Tech Computer Science": {
+      "fullName": "Bachelor of Technology in Computer Science Engineering",
+      "duration": "4 years",
+      "eligibility": "12th PCM with 60% + JEE/State CET",
+      "fees": "₹2,00,000 - ₹8,00,000",
+      "description": "Engineering degree focusing on programming, software development, algorithms, and computer systems.",
+      "certificates": ["JEE Qualification", "Programming Certifications", "Industry Internships"],
+      "topColleges": [
+        {"name": "IIT Delhi", "city": "Delhi", "fees": "₹8,50,000", "ranking": 1},
+        {"name": "IIT Bombay", "city": "Mumbai", "fees": "₹8,50,000", "ranking": 2},
+        {"name": "BITS Pilani", "city": "Pilani", "fees": "₹15,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Software Engineer", "Data Scientist", "Cybersecurity Expert", "AI/ML Engineer", "Product Manager"],
+      "averageSalary": "₹4,00,000 - ₹25,00,000"
+    },
+    "B.Tech Cybersecurity": {
+      "fullName": "Bachelor of Technology in Cybersecurity",
+      "duration": "4 years",
+      "eligibility": "12th PCM with 60% + JEE/State CET",
+      "fees": "₹3,00,000 - ₹10,00,000",
+      "description": "Specialized engineering focusing on information security, ethical hacking, and digital forensics.",
+      "certificates": ["CEH (Certified Ethical Hacker)", "CISSP", "CompTIA Security+"],
+      "topColleges": [
+        {"name": "IIT Kanpur", "city": "Kanpur", "fees": "₹8,50,000", "ranking": 1},
+        {"name": "VIT Vellore", "city": "Vellore", "fees": "₹7,50,000", "ranking": 2},
+        {"name": "SRM Chennai", "city": "Chennai", "fees": "₹6,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Cybersecurity Analyst", "Ethical Hacker", "Security Consultant", "Forensic Expert", "CISO"],
+      "averageSalary": "₹5,00,000 - ₹30,00,000"
+    },
+    "Chartered Accountancy": {
+      "fullName": "Chartered Accountancy",
+      "duration": "4-5 years",
+      "eligibility": "12th Commerce + CA Foundation",
+      "fees": "₹2,00,000 - ₹5,00,000",
+      "description": "Professional accounting course covering taxation, auditing, financial management, and business laws.",
+      "certificates": ["CA Foundation", "CA Intermediate", "CA Final"],
+      "topColleges": [
+        {"name": "ICAI Delhi", "city": "Delhi", "fees": "₹3,50,000", "ranking": 1},
+        {"name": "ICAI Mumbai", "city": "Mumbai", "fees": "₹3,80,000", "ranking": 2},
+        {"name": "ICAI Chennai", "city": "Chennai", "fees": "₹3,20,000", "ranking": 3}
+      ],
+      "careerOptions": ["Chartered Accountant", "Tax Consultant", "Financial Advisor", "Auditor", "CFO"],
+      "averageSalary": "₹6,00,000 - ₹25,00,000"
+    },
+    "BBA": {
+      "fullName": "Bachelor of Business Administration",
+      "duration": "3 years",
+      "eligibility": "12th any stream with 50%",
+      "fees": "₹1,00,000 - ₹4,00,000",
+      "description": "Business management degree covering marketing, finance, HR, and operations management.",
+      "certificates": ["Digital Marketing", "Project Management", "Business Analytics"],
+      "topColleges": [
+        {"name": "Shaheed Sukhdev College Delhi", "city": "Delhi", "fees": "₹45,000", "ranking": 1},
+        {"name": "Christ University Bangalore", "city": "Bangalore", "fees": "₹2,80,000", "ranking": 2},
+        {"name": "Symbiosis Pune", "city": "Pune", "fees": "₹3,50,000", "ranking": 3}
+      ],
+      "careerOptions": ["Business Analyst", "Marketing Manager", "HR Executive", "Operations Manager", "Entrepreneur"],
+      "averageSalary": "₹3,00,000 - ₹12,00,000"
+    },
+    "BA English": {
+      "fullName": "Bachelor of Arts in English",
+      "duration": "3 years",
+      "eligibility": "12th any stream with 45%",
+      "fees": "₹25,000 - ₹1,50,000",
+      "description": "Literature and language studies covering English literature, linguistics, and communication skills.",
+      "certificates": ["IELTS/TOEFL", "Content Writing", "Translation"],
+      "topColleges": [
+        {"name": "St. Stephen's College Delhi", "city": "Delhi", "fees": "₹35,000", "ranking": 1},
+        {"name": "Presidency College Kolkata", "city": "Kolkata", "fees": "₹25,000", "ranking": 2},
+        {"name": "Fergusson College Pune", "city": "Pune", "fees": "₹40,000", "ranking": 3}
+      ],
+      "careerOptions": ["Teacher", "Content Writer", "Journalist", "Translator", "Editor"],
+      "averageSalary": "₹2,50,000 - ₹8,00,000"
+    }
+  }
+}

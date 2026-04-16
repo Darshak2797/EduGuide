@@ -1,0 +1,253 @@
+{
+  "pathwayTree": {
+    "10th": {
+      "d2d": [
+        "ITI Electrician", "ITI Fitter", "ITI Welder", "ITI Computer Operator", "ITI Mechanic Motor Vehicle",
+        "ITI Electronics", "ITI Plumber", "ITI Carpenter", "ITI Painter", "ITI Machinist",
+        "Diploma Civil Engineering", "Diploma Mechanical Engineering", "Diploma Electrical Engineering",
+        "Diploma Computer Engineering", "Diploma Electronics Engineering", "Diploma Chemical Engineering",
+        "Diploma Automobile Engineering", "Diploma Textile Engineering", "Diploma Mining Engineering",
+        "Diploma Metallurgy", "Diploma Architecture", "Diploma Interior Design", "Diploma Fashion Design",
+        "Diploma Hotel Management", "Diploma Catering Technology", "Diploma Event Management",
+        "Diploma Photography", "Diploma Animation", "Diploma Graphic Design", "Diploma Web Design",
+        "Diploma Digital Marketing", "Diploma Journalism", "Diploma Mass Communication", "Diploma Acting",
+        "Diploma Music", "Diploma Dance", "Diploma Fine Arts", "Diploma Sculpture", "Diploma Painting",
+        "Certificate Beautician", "Certificate Hair Styling", "Certificate Makeup Artist", "Certificate Tailoring",
+        "Certificate Embroidery", "Certificate Cooking", "Certificate Baking", "Certificate Driving",
+        "Certificate Security Guard", "Certificate First Aid", "Certificate Computer Basic", "Certificate Tally",
+        "Certificate Data Entry", "Certificate Office Management"
+      ],
+      "army": [
+        "NCC Certificate", "Army Technical Entry", "Navy Technical Entry", "Air Force Technical Entry",
+        "Soldier General Duty", "Soldier Technical", "Soldier Clerk", "Soldier Tradesman",
+        "Indian Coast Guard", "BSF Constable", "CRPF Constable", "CISF Constable",
+        "Police Constable", "Home Guard", "Fire Service", "Disaster Management",
+        "Para Military Forces", "Intelligence Bureau", "RAW Training", "Military Police"
+      ],
+      "arts": [
+        "Diploma Fine Arts", "Diploma Music", "Diploma Dance", "Diploma Theatre Arts", "Diploma Painting",
+        "Diploma Sculpture", "Diploma Photography", "Diploma Film Making", "Diploma Animation",
+        "Diploma Graphic Design", "Diploma Interior Design", "Diploma Fashion Design", "Diploma Textile Design",
+        "Certificate Acting", "Certificate Singing", "Certificate Musical Instruments", "Certificate Drawing",
+        "Certificate Crafts", "Certificate Pottery", "Certificate Jewelry Making", "Certificate Wood Carving"
+      ],
+      "science": [
+        "ITI Lab Assistant", "ITI Medical Equipment", "ITI Pharmacy Assistant", "ITI Dental Assistant",
+        "ITI X-Ray Technician", "ITI ECG Technician", "ITI Dialysis Technician", "ITI OT Assistant",
+        "Diploma Medical Lab Technology", "Diploma Radiology", "Diploma Physiotherapy Assistant",
+        "Diploma Optometry", "Diploma Dental Hygienist", "Diploma Veterinary Assistant",
+        "Certificate First Aid", "Certificate Health Worker", "Certificate Nursing Assistant",
+        "Certificate Pharmacy Helper", "Certificate Medical Record", "Certificate Blood Bank Technician"
+      ]
+    },
+    "12th": {
+      "science": {
+        "maths": [
+          "B.Tech Computer Science", "B.Tech Information Technology", "B.Tech Cybersecurity", 
+          "B.Tech Artificial Intelligence", "B.Tech Data Science", "B.Tech Mechanical Engineering",
+          "B.Tech Civil Engineering", "B.Tech Electrical Engineering", "B.Tech Electronics",
+          "B.Tech Aerospace", "B.Tech Chemical Engineering", "B.Tech Petroleum Engineering",
+          "B.Sc Physics", "B.Sc Chemistry", "B.Sc Mathematics", "B.Sc Statistics",
+          "BCA", "B.Sc Computer Science", "B.Sc IT", "Architecture", "Naval Architecture"
+        ],
+        "biology": [
+          "MBBS", "BDS", "BAMS", "BHMS", "BUMS", "Veterinary Science", "Pharmacy", 
+          "B.Sc Nursing", "Physiotherapy", "Occupational Therapy", "B.Sc Biology",
+          "B.Sc Biotechnology", "B.Sc Microbiology", "B.Sc Biochemistry", "B.Sc Genetics",
+          "B.Sc Environmental Science", "B.Sc Forensic Science", "B.Sc Agriculture",
+          "B.Sc Horticulture", "B.Sc Forestry", "Food Technology", "Nutrition & Dietetics"
+        ]
+      },
+      "commerce": {
+        "general": [
+          "B.Com", "B.Com Honours", "BBA", "BMS", "BBM", "Chartered Accountancy",
+          "Company Secretary", "Cost Management Accountant", "B.Com Banking & Insurance",
+          "B.Com Computer Application", "BFM", "International Business", "E-Commerce",
+          "Digital Marketing", "Financial Markets", "Actuarial Science", "Economics Honours"
+        ]
+      },
+      "arts": {
+        "general": [
+          "BA English", "BA Hindi", "BA History", "BA Geography", "BA Political Science",
+          "BA Psychology", "BA Sociology", "BA Philosophy", "BA Economics", "BFA Fine Arts",
+          "Mass Communication", "Journalism", "BA LLB", "BBA LLB", "Hotel Management",
+          "Event Management", "Fashion Design", "Interior Design", "Graphic Design",
+          "Animation & VFX", "Film Making", "Music", "Dance", "Theatre Arts"
+        ]
+      },
+      "army": [
+        "NDA (National Defence Academy)", "CDS (Combined Defence Services)", "AFCAT (Air Force)",
+        "Indian Military Academy", "Naval Academy", "Air Force Academy", "Officers Training Academy",
+        "Technical Graduate Course", "Short Service Commission", "Permanent Commission",
+        "Army Medical Corps", "Army Engineering Corps", "Army Signal Corps", "Army Intelligence Corps"
+      ]
+    }
+  },
+  "courseDetails": {
+    "ITI Electrician": {
+      "fullName": "Industrial Training Institute - Electrician Trade",
+      "duration": "2 years",
+      "eligibility": "10th pass",
+      "fees": "₹15,000 - ₹40,000",
+      "description": "Technical training in electrical installations, wiring, motor repair, and electrical maintenance work.",
+      "certificates": ["NCVT Certificate", "Trade Test Certificate", "Safety Training"],
+      "topColleges": [
+        {"name": "Government ITI Mumbai", "city": "Mumbai", "fees": "₹18,000", "ranking": 1},
+        {"name": "Central ITI Delhi", "city": "Delhi", "fees": "₹15,000", "ranking": 2},
+        {"name": "ITI Pune", "city": "Pune", "fees": "₹22,000", "ranking": 3}
+      ],
+      "careerOptions": ["Electrician", "Electrical Supervisor", "Maintenance Engineer", "Electrical Contractor", "Power Plant Technician"],
+      "averageSalary": "₹2,00,000 - ₹5,00,000"
+    },
+    "Diploma Civil Engineering": {
+      "fullName": "Diploma in Civil Engineering",
+      "duration": "3 years",
+      "eligibility": "10th pass with 50% marks",
+      "fees": "₹60,000 - ₹2,00,000",
+      "description": "Technical education in construction, surveying, building design, and infrastructure development.",
+      "certificates": ["Diploma Certificate", "AutoCAD Certification", "Site Experience"],
+      "topColleges": [
+        {"name": "Government Polytechnic Mumbai", "city": "Mumbai", "fees": "₹75,000", "ranking": 1},
+        {"name": "Delhi Polytechnic", "city": "Delhi", "fees": "₹65,000", "ranking": 2},
+        {"name": "L.D. College Ahmedabad", "city": "Ahmedabad", "fees": "₹85,000", "ranking": 3}
+      ],
+      "careerOptions": ["Junior Engineer", "Site Supervisor", "Surveyor", "Draftsman", "Quality Inspector"],
+      "averageSalary": "₹2,50,000 - ₹6,00,000"
+    },
+    "NCC Certificate": {
+      "fullName": "National Cadet Corps Certificate",
+      "duration": "2-3 years",
+      "eligibility": "10th pass, Age 13-26 years",
+      "fees": "₹5,000 - ₹15,000",
+      "description": "Military training program developing leadership, discipline, and patriotism among youth.",
+      "certificates": ["NCC A Certificate", "NCC B Certificate", "NCC C Certificate"],
+      "topColleges": [
+        {"name": "Sainik School Bhubaneswar", "city": "Bhubaneswar", "fees": "₹8,000", "ranking": 1},
+        {"name": "Military School Belgaum", "city": "Belgaum", "fees": "₹10,000", "ranking": 2},
+        {"name": "Rashtriya Military School", "city": "Bangalore", "fees": "₹12,000", "ranking": 3}
+      ],
+      "careerOptions": ["Army Officer", "Police Officer", "Security Services", "Adventure Sports", "Leadership Roles"],
+      "averageSalary": "₹3,00,000 - ₹8,00,000"
+    },
+    "Diploma Fine Arts": {
+      "fullName": "Diploma in Fine Arts",
+      "duration": "2-3 years",
+      "eligibility": "10th pass with portfolio",
+      "fees": "₹40,000 - ₹1,50,000",
+      "description": "Artistic training in painting, drawing, sculpture, and visual arts techniques.",
+      "certificates": ["Art Portfolio", "Exhibition Participation", "Art Teacher Training"],
+      "topColleges": [
+        {"name": "JJ School of Arts Mumbai", "city": "Mumbai", "fees": "₹45,000", "ranking": 1},
+        {"name": "Government College of Arts Delhi", "city": "Delhi", "fees": "₹35,000", "ranking": 2},
+        {"name": "Kala Bhavana Santiniketan", "city": "Santiniketan", "fees": "₹40,000", "ranking": 3}
+      ],
+      "careerOptions": ["Artist", "Art Teacher", "Graphic Designer", "Art Therapist", "Gallery Curator"],
+      "averageSalary": "₹2,00,000 - ₹6,00,000"
+    },
+    "ITI Computer Operator": {
+      "fullName": "Industrial Training Institute - Computer Operator & Programming Assistant",
+      "duration": "1 year",
+      "eligibility": "10th pass",
+      "fees": "₹20,000 - ₹50,000",
+      "description": "Computer skills training including basic programming, data entry, and office applications.",
+      "certificates": ["COPA Certificate", "MS Office Certification", "Basic Programming"],
+      "topColleges": [
+        {"name": "Government ITI Delhi", "city": "Delhi", "fees": "₹25,000", "ranking": 1},
+        {"name": "ITI Mumbai", "city": "Mumbai", "fees": "₹30,000", "ranking": 2},
+        {"name": "ITI Bangalore", "city": "Bangalore", "fees": "₹28,000", "ranking": 3}
+      ],
+      "careerOptions": ["Computer Operator", "Data Entry Operator", "Office Assistant", "Junior Programmer", "IT Support"],
+      "averageSalary": "₹1,80,000 - ₹4,00,000"
+    },
+    "Army Technical Entry": {
+      "fullName": "Army Technical Entry Scheme",
+      "duration": "4 years",
+      "eligibility": "10+2 PCM with 70% + JEE Main",
+      "fees": "₹0 (Paid Training)",
+      "description": "Direct entry into Indian Army as Technical Officer after engineering degree.",
+      "certificates": ["JEE Main Qualification", "Army Technical Officer Commission", "Engineering Degree"],
+      "topColleges": [
+        {"name": "Indian Military Academy", "city": "Dehradun", "fees": "₹0", "ranking": 1},
+        {"name": "Officers Training Academy", "city": "Chennai", "fees": "₹0", "ranking": 2},
+        {"name": "Military College of Electronics", "city": "Mhow", "fees": "₹0", "ranking": 3}
+      ],
+      "careerOptions": ["Army Technical Officer", "Engineering Corps Officer", "Signal Corps Officer", "Defence Research", "Military Engineer"],
+      "averageSalary": "₹6,00,000 - ₹15,00,000"
+    },
+    "Certificate Beautician": {
+      "fullName": "Certificate Course in Beauty & Wellness",
+      "duration": "6 months - 1 year",
+      "eligibility": "10th pass",
+      "fees": "₹25,000 - ₹80,000",
+      "description": "Professional training in beauty treatments, skincare, makeup, and wellness services.",
+      "certificates": ["Beauty Therapy Certificate", "Makeup Artist License", "Wellness Specialist"],
+      "topColleges": [
+        {"name": "Lakme Academy Mumbai", "city": "Mumbai", "fees": "₹65,000", "ranking": 1},
+        {"name": "VLCC Institute Delhi", "city": "Delhi", "fees": "₹55,000", "ranking": 2},
+        {"name": "Shahnaz Husain Academy", "city": "Delhi", "fees": "₹70,000", "ranking": 3}
+      ],
+      "careerOptions": ["Beautician", "Makeup Artist", "Salon Owner", "Beauty Consultant", "Wellness Therapist"],
+      "averageSalary": "₹2,00,000 - ₹6,00,000"
+    },
+    "Diploma Hotel Management": {
+      "fullName": "Diploma in Hotel Management & Catering Technology",
+      "duration": "3 years",
+      "eligibility": "10th pass with 50%",
+      "fees": "₹1,50,000 - ₹4,00,000",
+      "description": "Hospitality industry training covering hotel operations, food service, and tourism management.",
+      "certificates": ["Hotel Management Diploma", "Food Safety Certificate", "Hospitality Skills"],
+      "topColleges": [
+        {"name": "IHM Mumbai", "city": "Mumbai", "fees": "₹2,80,000", "ranking": 1},
+        {"name": "IHM Delhi", "city": "Delhi", "fees": "₹2,50,000", "ranking": 2},
+        {"name": "IHM Bangalore", "city": "Bangalore", "fees": "₹3,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Hotel Manager", "Chef", "Event Manager", "Tourism Executive", "Restaurant Manager"],
+      "averageSalary": "₹2,50,000 - ₹8,00,000"
+    },
+    "MBBS": {
+      "fullName": "Bachelor of Medicine and Bachelor of Surgery",
+      "duration": "5.5 years",
+      "eligibility": "12th PCB with 50% + NEET qualified",
+      "fees": "₹5,00,000 - ₹25,00,000",
+      "description": "Medical degree to become a doctor. Study human anatomy, diseases, treatments, and patient care.",
+      "certificates": ["NEET Qualification", "Medical Council Registration", "Internship Certificate"],
+      "topColleges": [
+        {"name": "AIIMS Delhi", "city": "Delhi", "fees": "₹5,50,000", "ranking": 1},
+        {"name": "CMC Vellore", "city": "Vellore", "fees": "₹18,00,000", "ranking": 2},
+        {"name": "JIPMER Puducherry", "city": "Puducherry", "fees": "₹6,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Doctor", "Surgeon", "Specialist", "Medical Officer", "Researcher"],
+      "averageSalary": "₹6,00,000 - ₹20,00,000"
+    },
+    "B.Tech Computer Science": {
+      "fullName": "Bachelor of Technology in Computer Science Engineering",
+      "duration": "4 years",
+      "eligibility": "12th PCM with 60% + JEE/State CET",
+      "fees": "₹2,00,000 - ₹8,00,000",
+      "description": "Engineering degree focusing on programming, software development, algorithms, and computer systems.",
+      "certificates": ["JEE Qualification", "Programming Certifications", "Industry Internships"],
+      "topColleges": [
+        {"name": "IIT Delhi", "city": "Delhi", "fees": "₹8,50,000", "ranking": 1},
+        {"name": "IIT Bombay", "city": "Mumbai", "fees": "₹8,50,000", "ranking": 2},
+        {"name": "BITS Pilani", "city": "Pilani", "fees": "₹15,00,000", "ranking": 3}
+      ],
+      "careerOptions": ["Software Engineer", "Data Scientist", "AI/ML Engineer", "Product Manager", "Tech Lead"],
+      "averageSalary": "₹4,00,000 - ₹25,00,000"
+    },
+    "NDA": {
+      "fullName": "National Defence Academy",
+      "duration": "3 years + 1 year",
+      "eligibility": "12th any stream, Age 16.5-19.5 years",
+      "fees": "₹0 (Paid Training)",
+      "description": "Premier military academy training future officers for Army, Navy, and Air Force.",
+      "certificates": ["NDA Graduation", "Service Academy Training", "Officer Commission"],
+      "topColleges": [
+        {"name": "National Defence Academy", "city": "Khadakwasla", "fees": "₹0", "ranking": 1},
+        {"name": "Indian Military Academy", "city": "Dehradun", "fees": "₹0", "ranking": 2},
+        {"name": "Naval Academy", "city": "Ezhimala", "fees": "₹0", "ranking": 3}
+      ],
+      "careerOptions": ["Army Officer", "Navy Officer", "Air Force Officer", "Defence Services", "Military Leadership"],
+      "averageSalary": "₹6,00,000 - ₹20,00,000"
+    }
+  }
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EduGuide - Your Path to Success</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="additional-styles.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="container">
+            <a href="index.html" class="logo">EduGuide</a>
+            <nav class="nav-menu">
+                <a href="index.html">Home</a>
+                <a href="pathways.html">Pathways</a>
+                <a href="resources.html">Resources</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="Toggle Theme">🌙</button>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h1>Find Your <span id="typingText"></span></h1>
+                <p>Your complete guide to choosing the right career path after 10th & 12th in India.</p>
+                
+                <div class="search-wrapper">
+                    <input type="text" id="searchInput" placeholder="Search for a course (e.g., MBBS, Engineering)...">
+                    <button id="searchBtn">Search</button>
+                    <!-- Search suggestions will appear here -->
+                </div>
+
+                <div class="pathway-buttons">
+                    <button class="btn btn-primary" onclick="navigateToPathways('10th')">After 10th</button>
+                    <button class="btn btn-secondary" onclick="navigateToPathways('12th')">After 12th</button>
+                </div>
+            </div>
+        </section>
+
+        <section class="how-it-works">
+            <div class="container">
+                <h2>How It Works</h2>
+                <div class="steps-grid">
+                    <div class="step-card">
+                        <div class="step-number">1</div>
+                        <h3>Choose Your Stage</h3>
+                        <p>Select whether you're exploring options after 10th or 12th grade.</p>
+                    </div>
+                    <div class="step-card">
+                        <div class="step-number">2</div>
+                        <h3>Select Your Stream</h3>
+                        <p>Pick your academic stream (Science, Commerce, Arts) to see relevant paths.</p>
+                    </div>
+                    <div class="step-card">
+                        <div class="step-number">3</div>
+                        <h3>Explore Courses</h3>
+                        <p>Browse detailed information on courses, colleges, and career prospects.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="testimonials">
+            <div class="container">
+                <h2>What Students Say</h2>
+                <div class="testimonials-grid">
+                    <div class="testimonial-card">
+                        <p>"EduGuide made it so easy to understand my options after 12th Commerce. I finally chose BBA with confidence!"</p>
+                        <div class="student-info">
+                            <strong>Priya Sharma</strong>
+                            <span>Future BBA Student, Delhi</span>
+                        </div>
+                    </div>
+                    <div class="testimonial-card">
+                        <p>"I was confused between Engineering and a B.Sc degree. The detailed comparison on this site was a lifesaver."</p>
+                        <div class="student-info">
+                            <strong>Rohan Kumar</strong>
+                            <span>Aspiring Engineer, Bangalore</span>
+                        </div>
+                    </div>
+                    <div class="testimonial-card">
+                        <p>"As a 10th grader, I had no idea about diploma courses. This website showed me a direct path to a technical career."</p>
+                        <div class="student-info">
+                            <strong>Anjali Singh</strong>
+                            <span>10th Grade Student, Mumbai</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <p>&copy; 2024 EduGuide. Project by Darshak Bhalgamiya. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+</html>

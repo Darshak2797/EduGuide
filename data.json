@@ -1,0 +1,725 @@
+{
+  "courses": [
+    {
+      "id": "btech-cse",
+      "name": "B.Tech Computer Science",
+      "stream": "science",
+      "stage": "12th",
+      "courseLevel": "UG Degree",
+      "duration": "4",
+      "eligibility": "12th with PCM, 60% marks",
+      "fees": "₹2,00,000 - ₹8,00,000",
+      "description": "Learn programming, software development, and computer systems. High demand in IT industry with excellent career prospects.",
+      "image": "💻",
+      "video": "https://www.youtube.com/embed/qiMhD_fYVgE",
+      "averageSalary": "₹6,00,000 - ₹15,00,000 LPA",
+      "careerOptions": ["Software Developer", "Data Scientist", "Cybersecurity Analyst", "AI/ML Engineer"],
+      "topRecruiters": ["Google", "Microsoft", "Amazon", "TCS", "Infosys"],
+      "references": [
+        "https://www.aicte-india.org/",
+        "https://engineering.careers360.com/"
+      ],
+      "colleges": [
+        {"name": "IIT Bombay", "city": "Mumbai", "fees": "₹8,50,000"},
+        {"name": "IIT Delhi", "city": "Delhi", "fees": "₹8,50,000"},
+        {"name": "VIT Vellore", "city": "Vellore", "fees": "₹7,80,000"}
+      ]
+    },
+    {
+      "id": "mbbs",
+      "name": "MBBS",
+      "stream": "science",
+      "stage": "12th",
+      "courseLevel": "UG Degree",
+      "duration": "5.5",
+      "eligibility": "12th with PCB, NEET qualified",
+      "entranceExam": "NEET",
+      "expectedCutoff": "550+ for top government colleges, 480+ for known private colleges",
+      "fees": "₹5,00,000 - ₹25,00,000",
+      "description": "Become a doctor and serve humanity. Study human body, diseases, treatments, and patient care with strong clinical training.",
+      "image": "🩺",
+      "video": "https://www.youtube.com/embed/Ld0ZN0v2_hA",
+      "averageSalary": "₹7,00,000 - ₹20,00,000 LPA",
+      "careerOptions": ["General Physician", "Surgeon", "Specialist Doctor", "Medical Professor", "Healthcare Researcher"],
+      "topRecruiters": ["AIIMS", "Apollo Hospitals", "Fortis Healthcare", "Max Healthcare", "Tata Memorial Hospital"],
+      "references": [
+        "https://www.nmc.org.in/",
+        "https://www.nta.ac.in/NEET"
+      ],
+      "specializations": ["General Medicine", "Surgery", "Pediatrics", "Cardiology", "Orthopedics"],
+      "colleges": [
+        {"name": "AIIMS Delhi", "city": "Delhi", "fees": "₹5,50,000", "placementRate": "95%"},
+        {"name": "CMC Vellore", "city": "Vellore", "fees": "₹18,00,000", "placementRate": "92%"},
+        {"name": "JIPMER Puducherry", "city": "Puducherry", "fees": "₹6,00,000", "placementRate": "90%"},
+        {"name": "KEM Hospital Mumbai", "city": "Mumbai", "fees": "₹6,50,000", "placementRate": "88%"},
+        {"name": "Maulana Azad Medical College", "city": "Delhi", "fees": "₹3,50,000", "placementRate": "90%"},
+        {"name": "Grant Medical College", "city": "Mumbai", "fees": "₹3,80,000", "placementRate": "86%"},
+        {"name": "King George Medical University", "city": "Lucknow", "fees": "₹4,00,000", "placementRate": "85%"},
+        {"name": "Christian Medical College Ludhiana", "city": "Ludhiana", "fees": "₹8,00,000", "placementRate": "89%"},
+        {"name": "Kasturba Medical College", "city": "Manipal", "fees": "₹15,00,000", "placementRate": "87%"},
+        {"name": "Seth GS Medical College", "city": "Mumbai", "fees": "₹6,20,000", "placementRate": "88%"}
+      ]
+    },
+    {
+      "id": "bcom",
+      "name": "B.Com",
+      "stream": "commerce",
+      "stage": "12th",
+      "courseLevel": "UG Degree",
+      "duration": "3",
+      "eligibility": "12th with Commerce/Any stream",
+      "fees": "₹30,000 - ₹2,00,000",
+      "description": "Study accounting, finance, and business. Good foundation for CA, MBA, or banking careers.",
+      "image": "📊",
+      "video": "https://www.youtube.com/embed/TcyG9h-1p4A",
+      "averageSalary": "₹3,00,000 - ₹7,00,000 LPA",
+      "careerOptions": ["Accountant", "Financial Analyst", "Tax Consultant", "Bank PO"],
+      "topRecruiters": ["Deloitte", "EY", "KPMG", "HDFC Bank", "ICICI Bank"],
+      "references": [
+        "https://www.ugc.ac.in/",
+        "https://www.icai.org/"
+      ],
+      "colleges": [
+        {"name": "Shri Ram College Delhi", "city": "Delhi", "fees": "₹45,000"},
+        {"name": "Christ University Bangalore", "city": "Bangalore", "fees": "₹1,80,000"},
+        {"name": "Loyola College Chennai", "city": "Chennai", "fees": "₹85,000"}
+      ]
+    },
+    {
+      "id": "ba-english",
+      "name": "BA English",
+      "stream": "arts",
+      "stage": "12th",
+      "courseLevel": "UG Degree",
+      "duration": "3",
+      "eligibility": "12th with any stream",
+      "fees": "₹25,000 - ₹1,50,000",
+      "description": "Study literature, language, and communication. Opens doors to teaching, journalism, and content writing.",
+      "image": "📚",
+      "video": "https://www.youtube.com/embed/videoseries",
+      "averageSalary": "₹2,50,000 - ₹6,00,000 LPA",
+      "careerOptions": ["Content Writer", "Editor", "Teacher", "Public Relations Specialist"],
+      "topRecruiters": ["Times of India", "Penguin Random House", "Edelman", "Byju's"],
+      "references": [
+        "https://www.ugc.ac.in/",
+        "https://www.du.ac.in/"
+      ],
+      "colleges": [
+        {"name": "St. Stephen's College Delhi", "city": "Delhi", "fees": "₹35,000"},
+        {"name": "Presidency College Kolkata", "city": "Kolkata", "fees": "₹25,000"},
+        {"name": "Fergusson College Pune", "city": "Pune", "fees": "₹40,000"}
+      ]
+    },
+    {
+      "id": "diploma-engineering",
+      "name": "Diploma in Engineering",
+      "stream": "science",
+      "stage": "10th",
+      "courseLevel": "UG Diploma",
+      "duration": "3",
+      "eligibility": "10th pass with 50% marks",
+      "fees": "₹50,000 - ₹2,00,000",
+      "description": "Practical engineering skills in various fields. Direct entry to industry or lateral entry to B.Tech.",
+      "image": "⚙️",
+      "video": "https://www.youtube.com/embed/videoseries",
+      "averageSalary": "₹2,00,000 - ₹4,00,000 LPA",
+      "careerOptions": ["Junior Engineer", "Technician", "Supervisor", "Site Engineer"],
+      "topRecruiters": ["L&T", "Tata Motors", "BHEL", "State Electricity Boards"],
+      "references": [
+        "https://www.aicte-india.org/",
+        "https://www.dte.maharashtra.gov.in/"
+      ],
+      "colleges": [
+        {"name": "Government Polytechnic Mumbai", "city": "Mumbai", "fees": "₹75,000"},
+        {"name": "Delhi Polytechnic", "city": "Delhi", "fees": "₹60,000"},
+        {"name": "PSG Polytechnic Coimbatore", "city": "Coimbatore", "fees": "₹1,20,000"}
+      ]
+    },
+    {
+      "id": "iti",
+      "name": "ITI Courses",
+      "stream": "science",
+      "stage": "10th",
+      "courseLevel": "Certificate",
+      "duration": "1-2",
+      "eligibility": "10th pass",
+      "fees": "₹10,000 - ₹50,000",
+      "description": "Industrial training in various trades. Quick entry to job market with practical skills.",
+      "image": "🔧",
+      "video": "https://www.youtube.com/embed/videoseries",
+      "averageSalary": "₹1,50,000 - ₹3,00,000 LPA",
+      "careerOptions": ["Electrician", "Fitter", "Welder", "Mechanic"],
+      "topRecruiters": ["Indian Railways", "Maruti Suzuki", "ONGC", "Local Industries"],
+      "references": [
+        "https://www.dgt.gov.in/",
+        "https://www.ncvtmis.gov.in/"
+      ],
+      "colleges": [
+        {"name": "Government ITI Mumbai", "city": "Mumbai", "fees": "₹15,000"},
+        {"name": "Central ITI Delhi", "city": "Delhi", "fees": "₹12,000"},
+        {"name": "ITI Ahmedabad", "city": "Ahmedabad", "fees": "₹18,000"}
+      ]
+    },
+    {
+      "id": "bba",
+      "name": "BBA",
+      "stream": "commerce",
+      "stage": "12th",
+      "courseLevel": "UG Degree",
+      "duration": "3",
+      "eligibility": "12th with any stream, 50% marks",
+      "fees": "₹1,00,000 - ₹4,00,000",
+      "description": "Business administration and management skills. Gateway to MBA and corporate careers.",
+      "image": "💼",
+      "video": "https://www.youtube.com/embed/videoseries",
+      "averageSalary": "₹3,50,000 - ₹8,00,000 LPA",
+      "careerOptions": ["Marketing Manager", "HR Manager", "Sales Executive", "Entrepreneur"],
+      "topRecruiters": ["HUL", "Procter & Gamble", "Amazon", "BCG"],
+      "references": [
+        "https://www.ugc.ac.in/",
+        "https://www.aicte-india.org/"
+      ],
+      "colleges": [
+        {"name": "Shaheed Sukhdev College Delhi", "city": "Delhi", "fees": "₹45,000"},
+        {"name": "Symbiosis Pune", "city": "Pune", "fees": "₹3,50,000"},
+        {"name": "Christ University Bangalore", "city": "Bangalore", "fees": "₹2,80,000"}
+      ]
+    },
+    {
+      "id": "bsc-biology",
+      "name": "B.Sc Biology",
+      "stream": "science",
+      "stage": "12th",
+      "courseLevel": "UG Degree",
+      "duration": "3",
+      "eligibility": "12th with PCB, 50% marks",
+      "fees": "₹40,000 - ₹2,00,000",
+      "description": "Study life sciences, genetics, and biotechnology. Path to research, teaching, or further studies.",
+      "image": "🧬",
+      "video": "https://www.youtube.com/embed/videoseries",
+      "averageSalary": "₹3,00,000 - ₹6,00,000 LPA",
+      "careerOptions": ["Lab Technician", "Research Associate", "Botanist", "Zoologist"],
+      "topRecruiters": ["Cipla", "Sun Pharma", "Biocon", "Educational Institutions"],
+      "references": [
+        "https://www.ugc.ac.in/",
+        "https://www.dbt.gov.in/"
+      ],
+      "colleges": [
+        {"name": "Hindu College Delhi", "city": "Delhi", "fees": "₹35,000"},
+        {"name": "St. Xavier's Mumbai", "city": "Mumbai", "fees": "₹85,000"},
+        {"name": "Presidency College Chennai", "city": "Chennai", "fees": "₹45,000"}
+      ]
+    },
+    {
+      "id": "bfa",
+      "name": "BFA (Fine Arts)",
+      "stream": "arts",
+      "stage": "12th",
+      "courseLevel": "UG Degree",
+      "duration": "4",
+      "eligibility": "12th with any stream, portfolio",
+      "fees": "₹50,000 - ₹3,00,000",
+      "description": "Creative arts including painting, sculpture, and design. For artistic and creative minds.",
+      "image": "🎨",
+      "video": "https://www.youtube.com/embed/videoseries",
+      "averageSalary": "₹2,50,000 - ₹7,00,000 LPA",
+      "careerOptions": ["Graphic Designer", "Animator", "Art Director", "Illustrator"],
+      "topRecruiters": ["Ogilvy", "Ubisoft", "Design Studios", "Film Production Houses"],
+      "references": [
+        "https://www.ugc.ac.in/",
+        "https://www.jnu.ac.in/"
+      ],
+      "colleges": [
+        {"name": "JNU Delhi", "city": "Delhi", "fees": "₹25,000"},
+        {"name": "MS University Baroda", "city": "Vadodara", "fees": "₹60,000"},
+        {"name": "Kala Bhavana Santiniketan", "city": "Santiniketan", "fees": "₹35,000"}
+      ]
+    },
+    {
+      "id": "ca",
+      "name": "Chartered Accountancy",
+      "stream": "commerce",
+      "stage": "12th",
+      "courseLevel": "Professional",
+      "duration": "4-5",
+      "eligibility": "12th with Commerce, CPT cleared",
+      "fees": "₹2,00,000 - ₹5,00,000",
+      "description": "Professional accounting and auditing course. High earning potential in finance sector.",
+      "image": "📋",
+      "video": "https://www.youtube.com/embed/videoseries",
+      "averageSalary": "₹7,00,000 - ₹25,00,000 LPA",
+      "careerOptions": ["Auditor", "CFO", "Tax Advisor", "Management Consultant"],
+      "topRecruiters": ["Big 4 (Deloitte, PwC, EY, KPMG)", "Reliance", "Tata Group"],
+      "references": [
+        "https://www.icai.org/",
+        "https://www.caclubindia.com/"
+      ],
+      "colleges": [
+        {"name": "ICAI Delhi", "city": "Delhi", "fees": "₹3,50,000"},
+        {"name": "ICAI Mumbai", "city": "Mumbai", "fees": "₹3,80,000"},
+        {"name": "ICAI Chennai", "city": "Chennai", "fees": "₹3,20,000"}
+      ]
+    },
+    {
+      "id": "mass-comm",
+      "name": "Mass Communication",
+      "stream": "arts",
+      "stage": "12th",
+      "courseLevel": "UG Degree",
+      "duration": "3",
+      "eligibility": "12th with any stream, 50% marks",
+      "fees": "₹1,00,000 - ₹4,00,000",
+      "description": "Journalism, media, and communication studies. Career in news, advertising, and digital media.",
+      "image": "📺",
+      "video": "https://www.youtube.com/embed/videoseries",
+      "averageSalary": "₹3,00,000 - ₹8,00,000 LPA",
+      "careerOptions": ["Journalist", "Ad-Film Maker", "PR Officer", "Digital Marketer"],
+      "topRecruiters": ["NDTV", "BBC", "Ogilvy", "Google"],
+      "references": [
+        "https://www.ugc.ac.in/",
+        "https://www.iimc.nic.in/"
+      ],
+      "colleges": [
+        {"name": "IIMC Delhi", "city": "Delhi", "fees": "₹85,000"},
+        {"name": "Xavier Institute Mumbai", "city": "Mumbai", "fees": "₹3,50,000"},
+        {"name": "AJK MCRC Jamia", "city": "Delhi", "fees": "₹45,000"}
+      ]
+    },
+    {
+      "id": "commerce-diploma",
+      "name": "Commerce Diploma",
+      "stream": "commerce",
+      "stage": "10th",
+      "courseLevel": "UG Diploma",
+      "duration": "2",
+      "eligibility": "10th pass with 50% marks",
+      "fees": "₹30,000 - ₹1,00,000",
+      "description": "Basic commerce and accounting skills. Quick entry to clerical and accounting jobs.",
+      "image": "💰",
+      "video": "https://www.youtube.com/embed/videoseries",
+      "averageSalary": "₹1,80,000 - ₹3,50,000 LPA",
+      "careerOptions": ["Accounts Assistant", "Office Administrator", "Data Entry Operator"],
+      "topRecruiters": ["Local Businesses", "Retail Chains", "Small Accounting Firms"],
+      "references": [
+        "https://www.cbse.gov.in/",
+        "https://www.ncert.nic.in/"
+      ],
+      "colleges": [
+        {"name": "Delhi College of Commerce", "city": "Delhi", "fees": "₹45,000"},
+        {"name": "Mumbai Commerce Institute", "city": "Mumbai", "fees": "₹55,000"},
+        {"name": "Pune Commerce College", "city": "Pune", "fees": "₹40,000"}
+      ]
+    },
+    {
+      "id": "bca",
+      "name": "BCA",
+      "stream": "science",
+      "stage": "12th",
+      "courseLevel": "UG Degree",
+      "duration": "3",
+      "eligibility": "12th with Maths, 50% marks",
+      "fees": "₹80,000 - ₹3,00,000",
+      "description": "Bachelor of Computer Applications focuses on software development and computer applications. A great alternative to B.Tech for a career in IT.",
+      "image": "🖥️",
+      "video": "https://www.youtube.com/embed/videoseries",
+      "averageSalary": "₹3,00,000 - ₹6,00,000 LPA",
+      "careerOptions": ["Software Developer", "Web Developer", "System Analyst", "Technical Support"],
+      "topRecruiters": ["Wipro", "Capgemini", "HCL", "Accenture"],
+      "references": ["https://www.ugc.ac.in/"],
+      "colleges": [
+        {"name": "Christ University", "city": "Bangalore", "fees": "₹2,50,000"},
+        {"name": "Symbiosis Institute", "city": "Pune", "fees": "₹2,80,000"},
+        {"name": "Loyola College", "city": "Chennai", "fees": "₹1,50,000"}
+      ]
+    },
+    {
+      "id": "fashion-design",
+      "name": "Fashion Design",
+      "stream": "arts",
+      "stage": "12th",
+      "courseLevel": "UG Degree/Diploma",
+      "duration": "3-4",
+      "eligibility": "12th with any stream, entrance exam (NID/NIFT)",
+      "fees": "₹3,00,000 - ₹10,00,000",
+      "description": "A creative field involving the design of clothing and accessories. Requires a strong sense of style and artistic skill.",
+      "image": "👗",
+      "video": "https://www.youtube.com/embed/videoseries",
+      "averageSalary": "₹4,00,000 - ₹12,00,000 LPA",
+      "careerOptions": ["Fashion Designer", "Merchandiser", "Stylist", "Textile Designer"],
+      "topRecruiters": ["Manish Malhotra", "Sabyasachi", "Zara", "H&M", "Myntra"],
+      "references": ["https://www.nift.ac.in/", "https://www.nid.edu/"],
+      "colleges": [
+        {"name": "NIFT Delhi", "city": "Delhi", "fees": "₹8,00,000"},
+        {"name": "NID Ahmedabad", "city": "Ahmedabad", "fees": "₹9,00,000"},
+        {"name": "Pearl Academy", "city": "Mumbai", "fees": "₹7,00,000"}
+      ]
+    },
+    {
+      "id": "iti-electrician",
+      "name": "ITI Electrician",
+      "stream": "science",
+      "stage": "10th",
+      "courseLevel": "Certificate",
+      "duration": "2",
+      "eligibility": "10th pass",
+      "fees": "₹15,000 - ₹40,000",
+      "description": "Hands-on electrical training for installations, wiring, motor repair, and industrial maintenance.",
+      "image": "⚡",
+      "averageSalary": "₹1,80,000 - ₹4,00,000",
+      "careerOptions": ["Electrician", "Maintenance Technician", "Electrical Supervisor"],
+      "topRecruiters": ["Indian Railways", "Tata Power", "BHEL"],
+      "references": ["https://www.ncvtmis.gov.in/", "https://www.dgt.gov.in/"],
+      "colleges": [
+        {"name": "Government ITI Mumbai", "city": "Mumbai", "fees": "₹18,000"},
+        {"name": "Central ITI Delhi", "city": "Delhi", "fees": "₹15,000"}
+      ]
+    },
+    {
+      "id": "diploma-civil-engineering",
+      "name": "Diploma Civil Engineering",
+      "stream": "science",
+      "stage": "10th",
+      "courseLevel": "Diploma",
+      "duration": "3",
+      "eligibility": "10th pass with 50% marks",
+      "fees": "₹60,000 - ₹2,00,000",
+      "description": "Training in construction technology, surveying, and project execution for civil infrastructure careers.",
+      "image": "🏗️",
+      "averageSalary": "₹2,50,000 - ₹6,00,000",
+      "careerOptions": ["Junior Engineer", "Site Supervisor", "Draftsman"],
+      "topRecruiters": ["L&T", "GMR", "Tata Projects"],
+      "references": ["https://www.aicte-india.org/", "https://www.dte.maharashtra.gov.in/"],
+      "colleges": [
+        {"name": "Government Polytechnic Mumbai", "city": "Mumbai", "fees": "₹75,000"},
+        {"name": "L.D. College Ahmedabad", "city": "Ahmedabad", "fees": "₹85,000"}
+      ]
+    },
+    {
+      "id": "diploma-fine-arts",
+      "name": "Diploma Fine Arts",
+      "stream": "arts",
+      "stage": "10th",
+      "courseLevel": "Diploma",
+      "duration": "2",
+      "eligibility": "10th pass with portfolio",
+      "fees": "₹45,000 - ₹1,20,000",
+      "description": "Training in painting, drawing, sculpture, and visual expression for creative art careers.",
+      "image": "🎨",
+      "averageSalary": "₹2,00,000 - ₹5,00,000",
+      "careerOptions": ["Artist", "Illustrator", "Graphic Designer"],
+      "topRecruiters": ["Design Studios", "Advertising Agencies", "Art Galleries"],
+      "references": ["https://www.ncert.nic.in/", "https://www.ugc.ac.in/"],
+      "colleges": [
+        {"name": "JJ School of Arts", "city": "Mumbai", "fees": "₹45,000"},
+        {"name": "Government College of Arts", "city": "Delhi", "fees": "₹35,000"}
+      ]
+    },
+    {
+      "id": "certificate-digital-marketing",
+      "name": "Certificate Digital Marketing",
+      "stream": "commerce",
+      "stage": "10th",
+      "courseLevel": "Certificate",
+      "duration": "1",
+      "eligibility": "10th pass",
+      "fees": "₹20,000 - ₹80,000",
+      "description": "Learn online marketing, social media, SEO, and analytics for digital business careers.",
+      "image": "📱",
+      "averageSalary": "₹2,50,000 - ₹6,00,000",
+      "careerOptions": ["Digital Marketer", "SEO Executive", "Social Media Manager"],
+      "topRecruiters": ["Google", "Facebook", "Wipro Digital"],
+      "references": ["https://digitalmarketinginstitute.com/", "https://www.google.com/"],
+      "colleges": [
+        {"name": "Digital Academy 360", "city": "Pune", "fees": "₹50,000"},
+        {"name": "NIIT", "city": "Delhi", "fees": "₹65,000"}
+      ]
+    },
+    {
+      "id": "diploma-hotel-management",
+      "name": "Diploma Hotel Management",
+      "stream": "commerce",
+      "stage": "10th",
+      "courseLevel": "Diploma",
+      "duration": "2",
+      "eligibility": "10th pass",
+      "fees": "₹80,000 - ₹2,50,000",
+      "description": "Training in hospitality operations, food services, front office, and hotel administration.",
+      "image": "🏨",
+      "averageSalary": "₹2,50,000 - ₹5,50,000",
+      "careerOptions": ["Hotel Supervisor", "Front Office Executive", "Food & Beverage Manager"],
+      "topRecruiters": ["Taj Hotels", "Oberoi", "ITC Hotels"],
+      "references": ["https://www.aahoa.com/", "https://www.ugc.ac.in/"],
+      "colleges": [
+        {"name": "Institute of Hotel Management Mumbai", "city": "Mumbai", "fees": "₹1,20,000"},
+        {"name": "IHM Delhi", "city": "Delhi", "fees": "₹1,00,000"}
+      ]
+    },
+    {
+      "id": "ncc-certificate",
+      "name": "NCC Certificate",
+      "stream": "army",
+      "stage": "10th",
+      "courseLevel": "Certificate",
+      "duration": "1",
+      "eligibility": "10th pass",
+      "entranceExam": "N/A",
+      "fees": "₹5,000 - ₹20,000",
+      "description": "National Cadet Corps training builds discipline, leadership, and defence awareness after 10th.",
+      "image": "🪖",
+      "averageSalary": "₹2,00,000 - ₹4,00,000",
+      "careerOptions": ["Defence Services", "Police", "Security Services", "Leadership Roles"],
+      "topRecruiters": ["Indian Army", "Indian Navy", "Indian Air Force", "State Police"],
+      "references": ["https://www.nccindia.nic.in/"],
+      "colleges": [
+        {"name": "NCC Training Centre Pune", "city": "Pune", "fees": "₹8,000", "placementRate": "N/A"},
+        {"name": "NCC Training School Kolkata", "city": "Kolkata", "fees": "₹7,500", "placementRate": "N/A"},
+        {"name": "NCC Group HQ Delhi", "city": "Delhi", "fees": "₹9,000", "placementRate": "N/A"}
+      ]
+    },
+    {
+      "id": "army-technical-entry",
+      "name": "Army Technical Entry",
+      "stream": "army",
+      "stage": "10th",
+      "courseLevel": "Diploma",
+      "duration": "1.5",
+      "eligibility": "10th pass with 60% marks",
+      "entranceExam": "Technical Entry Scheme Exam",
+      "fees": "₹0 - ₹30,000",
+      "description": "Training and entry into Indian Army technical trades for candidates after 10th.",
+      "image": "🛠️",
+      "averageSalary": "₹3,00,000 - ₹5,00,000",
+      "careerOptions": ["Technical Officer", "Army Technician", "Engineering Corps", "Defence Logistics"],
+      "topRecruiters": ["Indian Army Corps of Engineers", "Army Signals", "Military Engineering Services"],
+      "references": ["https://joinindianarmy.nic.in/", "https://www.indianarmy.nic.in/"],
+      "colleges": [
+        {"name": "Military College of Electronics Mhow", "city": "Mhow", "fees": "₹0", "placementRate": "N/A"},
+        {"name": "Army Technical School Pune", "city": "Pune", "fees": "₹10,000", "placementRate": "N/A"},
+        {"name": "Army Technical School Secunderabad", "city": "Secunderabad", "fees": "₹15,000", "placementRate": "N/A"}
+      ]
+    },
+    {
+      "id": "navy-technical-entry",
+      "name": "Navy Technical Entry",
+      "stream": "army",
+      "stage": "10th",
+      "courseLevel": "Certificate",
+      "duration": "1.5",
+      "eligibility": "10th pass with 60% marks",
+      "entranceExam": "Navy SSR / MR Selection",
+      "fees": "₹0 - ₹25,000",
+      "description": "Technical entry route into the Indian Navy for students after 10th.",
+      "image": "⚓",
+      "averageSalary": "₹3,00,000 - ₹5,00,000",
+      "careerOptions": ["Navy Technical Sailor", "Marine Engineer", "Navigation Support"],
+      "topRecruiters": ["Indian Navy", "Naval Dockyards"],
+      "references": ["https://www.joinindiannavy.gov.in/"],
+      "colleges": [
+        {"name": "Naval Academy Ezhimala", "city": "Kannur", "fees": "₹0", "placementRate": "N/A"},
+        {"name": "INS Chilka", "city": "Chilka", "fees": "₹0", "placementRate": "N/A"},
+        {"name": "Naval Training School Mumbai", "city": "Mumbai", "fees": "₹12,000", "placementRate": "N/A"}
+      ]
+    },
+    {
+      "id": "airforce-technical-entry",
+      "name": "Air Force Technical Entry",
+      "stream": "army",
+      "stage": "10th",
+      "courseLevel": "Certificate",
+      "duration": "1.5",
+      "eligibility": "10th pass with 60% marks",
+      "entranceExam": "Air Force Group X / Y",
+      "fees": "₹0 - ₹25,000",
+      "description": "Entry into the Indian Air Force technical branches after 10th with specialized training.",
+      "image": "✈️",
+      "averageSalary": "₹3,50,000 - ₹6,00,000",
+      "careerOptions": ["Air Force Technician", "Aircraft Maintenance", "Radar Operator"],
+      "topRecruiters": ["Indian Air Force", "HAL"],
+      "references": ["https://www.careerairforce.nic.in/"],
+      "colleges": [
+        {"name": "Air Force Technical College Bangalore", "city": "Bangalore", "fees": "₹0", "placementRate": "N/A"},
+        {"name": "AF Stn Jamnagar", "city": "Jamnagar", "fees": "₹0", "placementRate": "N/A"},
+        {"name": "Air Force Station Pune", "city": "Pune", "fees": "₹0", "placementRate": "N/A"}
+      ]
+    },
+    {
+      "id": "nda-preparation",
+      "name": "NDA Preparation",
+      "stream": "army",
+      "stage": "10th",
+      "courseLevel": "Coaching",
+      "duration": "1",
+      "eligibility": "10th pass",
+      "entranceExam": "NDA Exam preparation courses",
+      "fees": "₹20,000 - ₹80,000",
+      "description": "Coaching for National Defence Academy exam with a focus on maths, general ability and physical fitness.",
+      "image": "🎖️",
+      "averageSalary": "₹4,00,000 - ₹8,00,000",
+      "careerOptions": ["Army Officer", "Navy Officer", "Air Force Officer", "Defence Services"],
+      "topRecruiters": ["Indian Army", "Indian Navy", "Indian Air Force"],
+      "references": ["https://nda.nic.in/"],
+      "colleges": [
+        {"name": "R.K. Institute Delhi", "city": "Delhi", "fees": "₹35,000", "placementRate": "N/A"},
+        {"name": "Aakash Institute Pune", "city": "Pune", "fees": "₹40,000", "placementRate": "N/A"},
+        {"name": "Bansal Institute Delhi", "city": "Delhi", "fees": "₹30,000", "placementRate": "N/A"}
+      ]
+    },
+    {
+      "id": "cds-preparation",
+      "name": "CDS Preparation",
+      "stream": "army",
+      "stage": "10th",
+      "courseLevel": "Coaching",
+      "duration": "1",
+      "eligibility": "10th pass",
+      "entranceExam": "CDS Exam preparation courses",
+      "fees": "₹20,000 - ₹80,000",
+      "description": "Coaching for Combined Defence Services exam for entry into the armed forces officer training academies.",
+      "image": "🛡️",
+      "averageSalary": "₹4,00,000 - ₹8,00,000",
+      "careerOptions": ["Army Officer", "Navy Officer", "Air Force Officer", "Defence Leadership"],
+      "topRecruiters": ["Indian Army", "Indian Navy", "Indian Air Force"],
+      "references": ["https://joinindianarmy.nic.in/"],
+      "colleges": [
+        {"name": "Allen Career Institute Delhi", "city": "Delhi", "fees": "₹45,000", "placementRate": "N/A"},
+        {"name": "Career Launcher Mumbai", "city": "Mumbai", "fees": "₹40,000", "placementRate": "N/A"},
+        {"name": "NDA Academy Chennai", "city": "Chennai", "fees": "₹38,000", "placementRate": "N/A"}
+      ]
+    },
+    {
+      "id": "afcat-coaching",
+      "name": "AFCAT Coaching",
+      "stream": "army",
+      "stage": "10th",
+      "courseLevel": "Coaching",
+      "duration": "1",
+      "eligibility": "10th pass",
+      "entranceExam": "AFCAT exam preparation courses",
+      "fees": "₹20,000 - ₹70,000",
+      "description": "Coaching for the Air Force Common Admission Test to prepare for air force officer recruitment.",
+      "image": "✈️",
+      "averageSalary": "₹4,00,000 - ₹8,00,000",
+      "careerOptions": ["Air Force Officer", "Technical Officer", "Ground Duty Officer"],
+      "topRecruiters": ["Indian Air Force"],
+      "references": ["https://www.careerairforce.nic.in/"],
+      "colleges": [
+        {"name": "Air Force Academy Coaching Bangalore", "city": "Bangalore", "fees": "₹45,000", "placementRate": "N/A"},
+        {"name": "AFCAT Coaching Centre Pune", "city": "Pune", "fees": "₹42,000", "placementRate": "N/A"},
+        {"name": "AFCAT Training Centre Delhi", "city": "Delhi", "fees": "₹40,000", "placementRate": "N/A"}
+      ]
+    },
+    {
+      "id": "army-nursing-assistant",
+      "name": "Army Nursing Assistant",
+      "stream": "army",
+      "stage": "10th",
+      "courseLevel": "Diploma",
+      "duration": "1.5",
+      "eligibility": "10th pass",
+      "entranceExam": "Service Selection Board / Medical Test",
+      "fees": "₹25,000 - ₹60,000",
+      "description": "Training to become an Army Nursing Assistant supporting medical units and field hospitals.",
+      "image": "🩺",
+      "averageSalary": "₹3,00,000 - ₹5,00,000",
+      "careerOptions": ["Army Nursing Assistant", "Medical Support Staff", "Paramedical Assistant"],
+      "topRecruiters": ["Army Medical Corps", "Defence Hospitals"],
+      "references": ["https://www.joinindianarmy.nic.in/"],
+      "colleges": [
+        {"name": "Army Hospital Training Centre Delhi", "city": "Delhi", "fees": "₹30,000", "placementRate": "N/A"},
+        {"name": "Regional Medical Research Centre Pune", "city": "Pune", "fees": "₹35,000", "placementRate": "N/A"},
+        {"name": "Army Medical Corps Training Centre Mhow", "city": "Mhow", "fees": "₹40,000", "placementRate": "N/A"}
+      ]
+    },
+    {
+      "id": "military-police-training",
+      "name": "Military Police Training",
+      "stream": "army",
+      "stage": "10th",
+      "courseLevel": "Certificate",
+      "duration": "1",
+      "eligibility": "10th pass",
+      "entranceExam": "Service Selection Board / Physical Test",
+      "fees": "₹10,000 - ₹30,000",
+      "description": "Training in military policing, law enforcement, and security operations within defence forces.",
+      "image": "🚓",
+      "averageSalary": "₹2,50,000 - ₹4,50,000",
+      "careerOptions": ["Military Police", "Security Supervisor", "Defence Law Enforcement"],
+      "topRecruiters": ["Indian Army", "Indian Air Force", "Indian Navy"],
+      "references": ["https://www.indianarmy.nic.in/"],
+      "colleges": [
+        {"name": "Military Police Training School Bangalore", "city": "Bangalore", "fees": "₹25,000", "placementRate": "N/A"},
+        {"name": "Defence Security Academy Hyderabad", "city": "Hyderabad", "fees": "₹28,000", "placementRate": "N/A"},
+        {"name": "Army School of Military Police Pune", "city": "Pune", "fees": "₹30,000", "placementRate": "N/A"}
+      ]
+    },
+    {
+      "id": "para-military-forces",
+      "name": "Para Military Forces",
+      "stream": "army",
+      "stage": "10th",
+      "courseLevel": "Certificate",
+      "duration": "1",
+      "eligibility": "10th pass",
+      "entranceExam": "Paramilitary Recruitment Exam",
+      "fees": "₹10,000 - ₹35,000",
+      "description": "Training for careers in paramilitary forces with focus on security, law enforcement, and disaster response.",
+      "image": "🛡️",
+      "averageSalary": "₹2,50,000 - ₹5,00,000",
+      "careerOptions": ["Paramilitary Officer", "Border Security", "Disaster Response", "Intelligence Support"],
+      "topRecruiters": ["BSF", "CRPF", "ITBP", "SSB"],
+      "references": ["https://paramilitary.gov.in/"],
+      "colleges": [
+        {"name": "CRPF Training Centre Gurgaon", "city": "Gurgaon", "fees": "₹20,000", "placementRate": "N/A"},
+        {"name": "BSF Academy Tekanpur", "city": "Gwalior", "fees": "₹22,000", "placementRate": "N/A"},
+        {"name": "ITBP Training Centre Dehradun", "city": "Dehradun", "fees": "₹25,000", "placementRate": "N/A"}
+      ]
+    }
+  ],
+  "colleges": [
+    {"name": "IIT Delhi", "city": "Delhi", "courses": ["btech-cse"], "fees": "₹8,50,000", "pincode": "110016"},
+    {"name": "IIT Bombay", "city": "Mumbai", "courses": ["btech-cse"], "fees": "₹8,50,000", "pincode": "400076"},
+    {"name": "AIIMS Delhi", "city": "Delhi", "courses": ["mbbs"], "fees": "₹5,50,000", "pincode": "110029"},
+    {"name": "VIT Vellore", "city": "Vellore", "courses": ["btech-cse"], "fees": "₹7,50,000", "pincode": "632014"},
+    {"name": "Christ University", "city": "Bangalore", "courses": ["bcom", "bba", "bca"], "fees": "₹2,30,000", "pincode": "560029"},
+    {"name": "St. Xavier's Mumbai", "city": "Mumbai", "courses": ["bsc-biology"], "fees": "₹85,000", "pincode": "400001"},
+    {"name": "Shri Ram College", "city": "Delhi", "courses": ["bcom"], "fees": "₹45,000", "pincode": "110007"},
+    {"name": "Presidency College", "city": "Kolkata", "courses": ["ba-english"], "fees": "₹25,000", "pincode": "700073"},
+    {"name": "Government Polytechnic", "city": "Mumbai", "courses": ["diploma-engineering"], "fees": "₹75,000", "pincode": "400032"},
+    {"name": "JNU Delhi", "city": "Delhi", "courses": ["bfa"], "fees": "₹25,000", "pincode": "110067"},
+    {"name": "IIMC Delhi", "city": "Delhi", "courses": ["mass-comm"], "fees": "₹85,000", "pincode": "110067"},
+    {"name": "Symbiosis Pune", "city": "Pune", "courses": ["bba", "bca"], "fees": "₹3,50,000", "pincode": "411007"},
+    {"name": "Government ITI", "city": "Ahmedabad", "courses": ["iti"], "fees": "₹18,000", "pincode": "380009"},
+    {"name": "NIFT Delhi", "city": "Delhi", "courses": ["fashion-design"], "fees": "₹8,00,000", "pincode": "110016"},
+    {"name": "NID Ahmedabad", "city": "Ahmedabad", "courses": ["fashion-design"], "fees": "₹9,00,000", "pincode": "380007"},
+    {"name": "NCC Training Centre Pune", "city": "Pune", "courses": ["ncc-certificate"], "fees": "₹8,000", "pincode": "411014"},
+    {"name": "NCC Training School Kolkata", "city": "Kolkata", "courses": ["ncc-certificate"], "fees": "₹7,500", "pincode": "700001"},
+    {"name": "NCC Group HQ Delhi", "city": "Delhi", "courses": ["ncc-certificate"], "fees": "₹9,000", "pincode": "110001"},
+    {"name": "Military College of Electronics Mhow", "city": "Mhow", "courses": ["army-technical-entry"], "fees": "₹0", "pincode": "453441"},
+    {"name": "Army Technical School Pune", "city": "Pune", "courses": ["army-technical-entry"], "fees": "₹10,000", "pincode": "411001"},
+    {"name": "Army Technical School Secunderabad", "city": "Secunderabad", "courses": ["army-technical-entry"], "fees": "₹15,000", "pincode": "500094"},
+    {"name": "Naval Academy Ezhimala", "city": "Kannur", "courses": ["navy-technical-entry"], "fees": "₹0", "pincode": "670307"},
+    {"name": "INS Chilka", "city": "Chilka", "courses": ["navy-technical-entry"], "fees": "₹0", "pincode": "754211"},
+    {"name": "Naval Training School Mumbai", "city": "Mumbai", "courses": ["navy-technical-entry"], "fees": "₹12,000", "pincode": "400007"},
+    {"name": "Air Force Technical College Bangalore", "city": "Bangalore", "courses": ["airforce-technical-entry"], "fees": "₹0", "pincode": "560017"},
+    {"name": "AF Stn Jamnagar", "city": "Jamnagar", "courses": ["airforce-technical-entry"], "fees": "₹0", "pincode": "361001"},
+    {"name": "Air Force Station Pune", "city": "Pune", "courses": ["airforce-technical-entry"], "fees": "₹0", "pincode": "411025"},
+    {"name": "R.K. Institute Delhi", "city": "Delhi", "courses": ["nda-preparation"], "fees": "₹35,000", "pincode": "110001"},
+    {"name": "Aakash Institute Pune", "city": "Pune", "courses": ["nda-preparation"], "fees": "₹40,000", "pincode": "411016"},
+    {"name": "Bansal Institute Delhi", "city": "Delhi", "courses": ["nda-preparation"], "fees": "₹30,000", "pincode": "110034"},
+    {"name": "Allen Career Institute Delhi", "city": "Delhi", "courses": ["cds-preparation"], "fees": "₹45,000", "pincode": "110058"},
+    {"name": "Career Launcher Mumbai", "city": "Mumbai", "courses": ["cds-preparation"], "fees": "₹40,000", "pincode": "400013"},
+    {"name": "NDA Academy Chennai", "city": "Chennai", "courses": ["cds-preparation"], "fees": "₹38,000", "pincode": "600028"},
+    {"name": "Air Force Academy Coaching Bangalore", "city": "Bangalore", "courses": ["afcat-coaching"], "fees": "₹45,000", "pincode": "560017"},
+    {"name": "AFCAT Coaching Centre Pune", "city": "Pune", "courses": ["afcat-coaching"], "fees": "₹42,000", "pincode": "411014"},
+    {"name": "AFCAT Training Centre Delhi", "city": "Delhi", "courses": ["afcat-coaching"], "fees": "₹40,000", "pincode": "110062"},
+    {"name": "Army Hospital Training Centre Delhi", "city": "Delhi", "courses": ["army-nursing-assistant"], "fees": "₹30,000", "pincode": "110010"},
+    {"name": "Regional Medical Research Centre Pune", "city": "Pune", "courses": ["army-nursing-assistant"], "fees": "₹35,000", "pincode": "411004"},
+    {"name": "Army Medical Corps Training Centre Mhow", "city": "Mhow", "courses": ["army-nursing-assistant"], "fees": "₹40,000", "pincode": "453441"},
+    {"name": "Military Police Training School Bangalore", "city": "Bangalore", "courses": ["military-police-training"], "fees": "₹25,000", "pincode": "560017"},
+    {"name": "Defence Security Academy Hyderabad", "city": "Hyderabad", "courses": ["military-police-training"], "fees": "₹28,000", "pincode": "500028"},
+    {"name": "Army School of Military Police Pune", "city": "Pune", "courses": ["military-police-training"], "fees": "₹30,000", "pincode": "411025"},
+    {"name": "CRPF Training Centre Gurgaon", "city": "Gurgaon", "courses": ["para-military-forces"], "fees": "₹20,000", "pincode": "122001"},
+    {"name": "BSF Academy Tekanpur", "city": "Gwalior", "courses": ["para-military-forces"], "fees": "₹22,000", "pincode": "474005"},
+    {"name": "ITBP Training Centre Dehradun", "city": "Dehradun", "courses": ["para-military-forces"], "fees": "₹25,000", "pincode": "248001"}
+  ]
+}

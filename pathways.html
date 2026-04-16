@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Pathways - EduGuide</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="additional-styles.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="container">
+            <a href="index.html" class="logo">EduGuide</a>
+            <nav class="nav-menu">
+                <a href="index.html">Home</a>
+                <a href="pathways.html">Pathways</a>
+                <a href="resources.html">Resources</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="Toggle Theme">🌙</button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="pathway-header">
+            <h1>Explore Your Career Path</h1>
+            <p>Follow these steps to discover the perfect course for you.</p>
+        </div>
+
+        <div class="pathway-steps">
+            <!-- Step 1: Stage Selection -->
+            <section id="stageSelection" class="step-section">
+                <h2>Step 1: Choose Your Current Stage</h2>
+                <div class="btn-group">
+                    <button class="btn btn-primary btn-stage" data-stage="10th">After 10th</button>
+                    <button class="btn btn-primary btn-stage" data-stage="12th">After 12th</button>
+                </div>
+            </section>
+
+            <!-- Step 2: Stream Selection -->
+            <section id="streamSelection" class="step-section hidden">
+                <h2>Step 2: Select Your Stream</h2>
+                <div id="streamCards" class="stream-cards"></div>
+            </section>
+
+            <!-- Step 3: Sub-branch Selection -->
+            <section id="subBranchSelection" class="step-section hidden">
+                <h2>Step 3: Choose Your Specialization</h2>
+                <div id="subBranchCards" class="stream-cards">
+                    <!-- Sub-branch cards will be dynamically inserted here -->
+                </div>
+            </section>
+
+            <!-- Step 4: Course Grid -->
+            <section id="courseGrid" class="step-section hidden">
+                <h2>Available Courses</h2>
+                <div class="filters-container">
+                    <input type="text" id="courseSearch" class="filter-input" placeholder="Filter courses by name...">
+                    <select id="durationFilter" class="filter-select">
+                        <option value="">All Durations</option>
+                        <option value="1-2">1-2 years</option>
+                        <option value="3">3 years</option>
+                        <option value="4">4 years</option>
+                        <option value="5">5+ years</option>
+                    </select>
+                    <button class="btn btn-secondary" id="filterBtn">Apply Filters</button>
+                </div>
+                <div id="coursesContainer" class="courses-grid">
+                    <!-- Course cards will be dynamically inserted here -->
+                </div>
+            </section>
+
+            <!-- Saved Courses -->
+            <section id="savedCourses" class="step-section hidden">
+                <h2>Your Saved Courses</h2>
+                <div id="savedCoursesContainer" class="courses-grid">
+                    <!-- Saved course cards will be inserted here -->
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Course Details Modal -->
+    <div id="courseModal" class="modal hidden">
+        <div class="modal-content">
+            <button class="close-modal">&times;</button>
+            <div id="modalContent"></div>
+        </div>
+    </div>
+
+    <!-- College Finder Modal -->
+    <div id="collegeModal" class="modal hidden">
+        <div class="modal-content">
+            <button class="close-modal">&times;</button>
+            <h3>Find Nearest Colleges</h3>
+            <input type="text" id="cityInput" placeholder="Enter your city or pincode">
+            <button id="findColleges" class="btn btn-primary">Find</button>
+            <div id="nearestColleges"></div>
+        </div>
+    </div>
+
+    <footer class="main-footer">
+        <p>&copy; 2024 EduGuide. Project by Darshak Bhalgamiya.</p>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+</html>
